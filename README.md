@@ -1,4 +1,4 @@
-# 🎓 Student Management System
+# 🎓 Students Management System
 
 A desktop-based Student Management System built using **Python**, **Tkinter**, and **MySQL**.  
 This application allows users to **add**, **update**, **delete**, and **view** student records easily with a user-friendly interface.
